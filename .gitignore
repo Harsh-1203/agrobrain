@@ -1,0 +1,25 @@
+# Compiled / bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments & installers
+.venv/
+env/
+venv/
+*.egg-info/
+pip-wheel-metadata/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Jupyter / Streamlit caches
+.ipynb_checkpoints/
+.streamlit/
+
+# Logs / temp
+*.log
+*.tmp
