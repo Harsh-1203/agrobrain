@@ -1,5 +1,5 @@
 streamlit
-torch==2.5.1
+torch==2.6.0
 torchvision==0.21.0
 scikit-learn==1.5.2
 numpy==2.1.3
